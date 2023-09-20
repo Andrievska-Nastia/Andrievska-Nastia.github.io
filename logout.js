@@ -14,5 +14,5 @@ export function removeToken (){
 }
 
 export function redirectToLoginPage() {
-    location.replace('/login.html') 
+    location.replace('/index.html') 
 }
