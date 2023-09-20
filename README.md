@@ -10,4 +10,4 @@ You can also run the program using Go Live extention for Visual Studio Code
 
 
 ## AUTHORS
-Svitlana Bondar, Nikol Cherneha, Valeriia Nahynaliuk, Anastasiia Andriievska
+Anastasiia Andriievska
